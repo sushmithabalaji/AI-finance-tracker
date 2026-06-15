@@ -46,3 +46,9 @@ streamlit run app.py
 1. Run the app and open it in your browser.
 2. Upload a bank statement CSV.
 3. View your categorized transactions, summary metrics, and spending breakdown chart.
+
+## Screenshots
+
+![Upload screen](screenshots/upload.png)
+
+![Dashboard with categorized transactions and spending chart](screenshots/dashboard.png)
