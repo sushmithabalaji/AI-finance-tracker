@@ -96,10 +96,6 @@ if uploaded_file is not None:
 
     with st.spinner("🔍 Detecting CSV structure..."):
         structure = detect_csv_structure(first_lines)
-
-    st.write("Detected structure:", structure)  # temporary debug
-    st.write("Actual columns:", list(pd.read_csv(io.StringIO(raw_text), skiprows=structure["header_row"]).columns))
-
     df = pd.read_csv(io.StringIO(raw_text), skiprows=structure["header_row"])
 
     df = df.rename(columns={
