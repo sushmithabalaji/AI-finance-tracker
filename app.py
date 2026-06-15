@@ -84,7 +84,7 @@ CSV:
 
 st.set_page_config(page_title="AI Finance Tracker")
 st.title("💰 AI Finance Tracker")
-st.markdown("Upload your bank statement and let AI do the rest.")
+st.markdown("Upload your bank statement ")
 
 uploaded_file = st.file_uploader("Upload your bank statement (CSV)", type=["csv"])
 
