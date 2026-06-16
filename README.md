@@ -1,5 +1,4 @@
-<img width="744" height="802" alt="Screenshot 2026-06-15 at 22 51 37" src="https://github.com/user-attachments/assets/1f533162-6302-4291-82c1-a4f9b5773af6" />
-<img width="806" height="655" alt="Screenshot 2026-06-15 at 22 51 27" src="https://github.com/user-attachments/assets/1ab1f98f-d70f-4de5-bff6-6b21898f3105" />
+
 # AI Finance Tracker
 Any bank. Any format. One smart dashboard.
 
